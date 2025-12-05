@@ -50,10 +50,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'IT知识学习网站',
+        title: '八卦知识学习网站',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'https://avatars.githubusercontent.com/u/21326329?v=4',
         },
         items: [
           
