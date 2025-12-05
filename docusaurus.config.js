@@ -59,7 +59,7 @@ const config = {
           
           {
             to: '/docs/0',
-            label: '📘文档',
+            label: '🐞文章',
             position: 'left',
           },
           // 类型3：下拉菜单
